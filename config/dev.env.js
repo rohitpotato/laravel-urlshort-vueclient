@@ -4,5 +4,5 @@ const prodEnv = require('./prod.env')
 
 module.exports = merge(prodEnv, {
   NODE_ENV: '"development"',
-  API_URL: '"http://localhost/urlnode/public/check"'
+  API_URL: '"https://shielded-cove-84573.herokuapp.com"'
 })

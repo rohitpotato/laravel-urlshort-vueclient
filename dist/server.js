@@ -6,7 +6,7 @@ app = express();
 app.use(serveStatic(__dirname));
 
 var port = process.env.PORT || 5000;
-var apiUrl = 'https://shielded-cove-84573.herokuapp.com' || 'http://fresher.app:8000';
+var apiUrl = 'https://shielded-cove-84573.herokuapp.com' || 'http://localhost/urlnode/public/';
 
 app.listen(port);
 
