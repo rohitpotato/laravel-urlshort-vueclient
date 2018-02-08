@@ -2,10 +2,14 @@
 
 > A Vue.js project
 
-> Client for the <a href="https://github.com/rohitpotato/laravel-urlshort">API</a>. Uses a node.js server for a 301 redirection.
+> Client for the <a href="https://github.com/rohitpotato/laravel-urlshort-api">API</a>. Uses a node.js server for a 301 redirection.
+
 > Check the server.js in dist/server.js for configration.
+
 > Built with Vuex, Vue-Router, Clipboard.js.
+
 > Set up your configration variables in the dev and prod files for API_URL for development and production modes.
+
 > Install and start shortening your URL's!
 
 ## Build Setup
